@@ -1,0 +1,37 @@
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+ 
+  .Component {
+    text-align: center;
+  }
+  .airline{
+    background-color:aliceblue;
+  }
+
+.buttoncss {
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+.buttoncss:hover {
+    background-color: #45a049;
+  }
+
+.inputcss {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
